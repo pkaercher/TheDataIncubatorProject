@@ -1,0 +1,41 @@
+City,State,ORI
+Birmingham,Alabama,AL0010200
+Anchorage,Alaska,AK0010100
+Phoenix,Arizona,AZ0072300
+Tucson,Arizona,AZ0100300
+Los Angeles,California,CA0194200
+Oakland,California,CA0010900
+San Jose,California,CA0431300
+Stockton,California,CA0390500
+Aurora,Colorado,CO0010100
+Colorado Springs,Colorado,CO0210100
+Denver,Colorado,CODPD0000
+Washington,District of Columbia,DCMPD0000
+Miami,Florida,FL0130000
+Tampa,Florida,FL0290200
+Atlanta,Georgia,GAAPD0000
+Chicago,Illinois,ILCPD0000
+Indianapolis,Indiana,INIPD0000
+Kansas City,Kansas,KS1050200
+Louisville,Kentucky,KY0568000
+New Orleans,Louisiana,LANPD0000
+Baltimore,Maryland,MDBPD0000
+Boston,Massachusetts,MA0130100
+Detroit,Michigan,MI8234900
+Minneapolis,Minnesota,MN0271100
+St. Louis,Missouri,MOSPD0000
+Las Vegas,Nevada,NV0020100
+Newark,New Jersey,NJNPD0000
+Albuquerque,New Mexico,NM0010100
+Buffalo,New York,NY0140100
+New York,New York,NY0303000
+Charlotte-Mecklenburg,North Carolina,NC0601400
+Cleveland,Ohio,OHCLP0000
+Portland,Oregon,OR0260200
+Philadelphia,Pennsylvania,PAPEP0000
+Pittsburgh,Pennsylvania,PAPPD0000
+Memphis,Tennessee,TNMPD0000
+Houston,Texas,TXHPD0000
+Laredo,Texas,TX2400100
+Seattle,Washington,WASPD0000
+Milwaukee,Wisconsin,WIMPD0000
